@@ -8,15 +8,17 @@ Work carried out by:
 
 **Title of the project**: [Title goes here]
 **Team:**
-- Student 1: [Name and Number] 
-- Student 2; [Name and Number]
-- Student 3: [Name and Number]
+- Student 1: [Bernardo Lázaro 119230] 
+- Student 2; [Tómas Hilário 119896]
+- Student 3: [Diogo Duarte 120482]
 
 ---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
  > 	This stage corresponds to week 1. Describe the overall rationale that leads to choosing the project idea
 
 <!-- For this stage you will need to read this:-->
+- Domestic electricity consumption management is an essential aspect of modern household efficiency. With the increasing cost of electricity and growing concerns about environmental sustainability, managing energy consumption effectively has become a priority. Many households struggle to track and optimize their energy usage, leading to higher bills and unnecessary energy waste. By exploring solutions in this domain, we can contribute to cost savings, energy conservation, and a reduced carbon footprint. 
+- We aim to develop a service that can track all household appliances, accurately display energy consumption by area, and integrate emerging technologies such as electric vehicles and solar panels.  
 
 
 # [B. Stage 1 - Context Definition](stage1_context/b_stage_1_context_definition.md)
