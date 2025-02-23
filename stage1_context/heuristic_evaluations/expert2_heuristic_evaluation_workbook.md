@@ -2,7 +2,7 @@
 Nielsen Norman Group available at: https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_-_Nielsen_Norman_Group.pdf
 -->
 
-**Evaluator**: [Evaluator Name]
+**Evaluator**: Bernardo Lázaro
 **Date**: [DD-MM-AAAA]
 **Product**: [SuperMaxiApp]
 
