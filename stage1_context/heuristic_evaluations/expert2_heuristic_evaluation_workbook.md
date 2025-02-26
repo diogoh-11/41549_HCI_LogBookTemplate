@@ -3,8 +3,8 @@ Nielsen Norman Group available at: https://media.nngroup.com/media/articles/atta
 -->
 
 **Evaluator**: Bernardo Lázaro
-**Date**: [DD-MM-AAAA]
-**Product**: [SuperMaxiApp]
+**Date**: [26-02-2025]
+**Product**: [Emporia Energy]
 
 
 Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
@@ -17,7 +17,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
+| It could be clearer when the user presses certain buttons | 2           | Implement subtle color changes            |
 | Another thing   | 4            |                |
 
 # 2 Match Between System and The Real World
@@ -27,7 +27,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
+| Some beginner users might have trouble setting up the circuits | 2           | Use AI to assist the user or provide a tutorial on how things work              |
 | Another thing   | 4            |                |
 
 # 3 User Control and Freedom
@@ -39,7 +39,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
+| Deleting devices | 3            | Implement a confirmation option while removing a device or a circuit     |
 | Another thing   | 4            |                |
 
 # 4 Consistency and Standards
@@ -85,7 +85,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
+| Too much data shown from irrelevent devices | 2            |  Highlight only the devices selected by the user and devices that have spent some energy              |
 | Another thing   | 4            |                |
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
