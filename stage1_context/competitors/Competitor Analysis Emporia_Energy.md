@@ -39,6 +39,15 @@ Emporia Energy is a home energy monitoring system that provides real-time electr
 ---
 
 ## Screenshots  
+
+![Alt text](./images/img1.png)
+![Alt text](./images/img2.png)
+![Alt text](./images/img3.png)
+![Alt text](./images/img4.png)
+![Alt text](./images/img5.png)
+![Alt text](./images/img6.png)
+![Alt text](./images/img7.png)
+![Alt text](./images/img8.png)
  
 
 ---
