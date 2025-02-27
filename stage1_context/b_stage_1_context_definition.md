@@ -59,28 +59,45 @@
 #### Method
 [Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
 
+The Cognitive Walkthrough method was used to evaluate the usability of the Emporia Energy app by analyzing key tasks users perform. This method focuses on understanding whether users can successfully complete tasks without prior knowledge of the system. The evaluation follows a structured process to assess user knowledge, feedback clarity, and overall task success.
+
 #### Task Selection and Task Analysis
 
 [Which tasks did you select and why. What are the subtasks entailed for each ]
 
+The following tasks were selected because they are core functionalities of the app and essential for user experience. Each task was broken down into subtasks.
+
 
 | Task                        | Subtasks                               |
 | --------------------------- | -------------------------------------- |
-| **1. Buyng a grammar book** | Search for available grammar books     |
-|                             | Identify a specific book from the list |
-|                             | Add the selected book to the cart      |
-|                             | Proceeed to checkout                   |
+| **1. Generating a consumption report by room** | Navigate to the reports/analytics section       |
+|                                                 | Select “Consumption by Room”                    |
+|                                                 | Analyze the report and energy-saving insights   |
+|                                                 | Take action based on the recommendations        |
 
 
 | Task                          | Subtasks                                |
 | ----------------------------- | --------------------------------------- |
-| **1. Booking a train ticket** | Select departure and destination cities |
-|                               | Choose travel date and time             |
-|                               | Pick a seat (if applicable)             |
-|                               | Confirm booking and make payment        |
+| **2. Checking solar panel energy production** | Navigate to the solar energy section            |
+|                                                 | View production, consumption, and grid injection |
+|                                                 | Compare with past data for efficiency tracking  |
+
+| Task                          | Subtasks                                |
+| ----------------------------- | --------------------------------------- |
+| **3. Verifying Electric Vehicle Charging**      | Navigate to the EV charging section             |
+|                                                 | Check battery status and estimated charge time  |
+|                                                 | Adjust charging schedule if needed              |
+
+| Task                          | Subtasks                                |
+| ----------------------------- | --------------------------------------- |
+| **4. Receiving Energy-Saving Tips**             | Access the recommendations section              |
+|                                                 | Read personalized energy-saving tips            |
+|                                                 | Implement suggestions (scheduling device usage) |
 
 
 #### Results
+
+
 
 Task: [This is the task]
 
@@ -93,7 +110,41 @@ Task: [This is the task]
 
 
 
+### Task 1: Generating a Consumption Report by Room
+
+| Step # | Task/Action to Perform               |  Will User Know What to do at this step? (Yes/No)| Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No)| Suggestions for Improvement |
+|--------|--------------------------------------|---------------------------|-------|--------------------------------------|-------|----------------------|---------------------------|
+| 1      | Navigate to reports section         | Yes                      | Could be unclear where to find this  | Yes                                   | A progress indicator would help | Yes                      | Improve discoverability (e.g., prominent label) |
+| 2      | Select “Consumption by Room”        | Yes                      | Some users might not know where this is | Yes                                   | If selected correctly | Yes                      | Add search or filter option for easier access |
+| 3      | Analyze report data                 | No                         | Users might not understand the graphs | No                                    | Requires prior knowledge | No                       | Provide tooltips or explanations for metrics |
+| 4      | Take action based on insights       | No                         | No clear recommendations for action | No                                    | Users may not know what to do next | No                       | Offer actionable recommendations with buttons |
+
+
+
+### Task 2: Checking Solar Panel Energy Production
+
+| Step # | Task/Action to Perform               |  Will User Know What to do at this step? (Yes/No)| Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No)| Suggestions for Improvement |
+|--------|--------------------------------------|---------------------------|-------|--------------------------------------|-------|----------------------|---------------------------|
+| 1      | Navigate to solar section           | Yes                      | May not be obvious for new users | Yes                                   | If well labeled         | Yes                      | Improve menu labeling |
+| 2      | View energy production & grid data  | Yes                      | Graphs might be confusing        | No                                    | Needs clear separation | No                       | Use color-coded graphs and legends |
+| 3      | Compare data with past days         | No                         | Feature may not be intuitive      | No                                    | Lacks trend visualization | No                       | Add a comparison mode for past data |
+
+
+
+
+### Task 3: Verifying Electric Vehicle Charging
+
+| Step # | Task/Action to Perform               |  Will User Know What to do at this step? (Yes/No)| Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No)| Suggestions for Improvement |
+|--------|------------------------------|---------------------------|-------|--------------------------------------|-------|----------------------|---------------------------|
+| 1      | Navigate to EV charging      | Maybe                      | Depends on UI clarity | Yes                                   | If icon is clear         | Yes                      | Ensure easy access from main screen |
+| 2      | Check battery and charge info| Yes                      | Users may not understand cost estimates | No                                   | Needs better data breakdown | No                       | Display charge costs in simpler terms |
+| 3      | Adjust charging schedule     | No                         | Settings unavailable | No                                    | Needs to add this feature | No                       | Offer guided scheduling with time suggestions |
+
+
 ---
+
+
+
 
 # B.2. Users
 >	For the users, there are two goals: 1) understand the current status of users in the domain you are addressing. How do they manage, what are the main tasks they do, if they use some tool for the purpose, what are current challenges, what might be improved, what might be new features, ...
