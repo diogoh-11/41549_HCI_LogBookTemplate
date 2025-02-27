@@ -7,6 +7,7 @@ Work carried out by:
 # *HCI Project Logbook*
 
 **Title of the project**: [Title goes here]
+
 **Team:**
 - Student 1: [Bernardo Lázaro 119230] 
 - Student 2; [Tómas Hilário 119896]
