@@ -103,4 +103,4 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**       | **Severity** | Recommendation |
 | --------------- | ------------ | -------------- |
 | The tutorials should be more intuitive and a nice step by step | 2            |   Implement a more guided experience in the app             |
-| Another thing   | 4            |                |
+
