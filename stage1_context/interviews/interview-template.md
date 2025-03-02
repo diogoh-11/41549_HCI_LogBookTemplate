@@ -62,35 +62,6 @@ The user wants to monitor their energy consumption to reduce costs and be more e
 
 - The user mentioned they often forget to turn off lights and appliances, so a reminder feature would be useful.
 
-Henrique Reveles 119786
-ver cada dispositivo e personalizar 
-
-opcoes a tomar para poupar 
-
-mudar de dinheiro energia 
-
-dividir divisoes
-
-mudar sistema de energia para iniciantes (bateria)
-
-graficossss
-
-
-Sabes quanto gastas em energia por dispositivo? 
-nao
-Preferias receber um relatorio semanal de toda a energia ou um mensal de cada disposiito?
-semanal
-porque?
-margem para gerir
-que termos tecnicos relativos a energia conheces? 
-voltes
-de que forma gostarias de ver a energia gasta da tua casa?
-adicionar dispos, ver q disp tao a gastar no momen, ordenar por ordem alfabetica e assim...
-app
-
-que opcoes poderia ter essa app para conseguires poupar
-avisos de muito tempo ligado e dicas de IA 
-
 
 
 
