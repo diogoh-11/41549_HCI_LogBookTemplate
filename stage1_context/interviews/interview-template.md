@@ -61,3 +61,10 @@ The user wants to monitor their energy consumption to reduce costs and be more e
 ## Additional Observations 
 
 - The user mentioned they often forget to turn off lights and appliances, so a reminder feature would be useful.
+
+
+
+
+
+
+

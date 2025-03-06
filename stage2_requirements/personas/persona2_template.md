@@ -26,6 +26,6 @@ Alberto starts his day at 6:30 AM by reviewing energy reports from work and chec
 - Finding a reliable system to automate and optimize energy usage, especially for his solar panels and electric vehicle.  
 
 ## Motivation  
-*"I want a smarter way to manage my home's energy—reducing costs, increasing efficiency, and making the most of renewable resources. The right tools should make sustainable living simple and intuitive."*
+*"I want my home to be as energy-efficient and self-sufficient as possible while teaching my kids the value of sustainability."*
 
 
