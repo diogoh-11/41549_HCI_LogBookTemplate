@@ -44,11 +44,11 @@ For the heuristic evaluation, three experts analyzed the app using Nielsen’s h
 
 |                                                                                 **Issue**                                                                                 | **Expert 1** | Expert 2 | Expert 3 |                                                             Recommendations                                                             |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------: | :------: | :------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                 Users who accidentally remove a device must set it up again from scratch                                                  |              |          |    2     |                                   Implement an "Undo" option or confirmation before removing devices.                                   |
-| Customization options do not follow the natural flow of user expectations, as the app mixes data from different time periods (e.g., part of yesterday in the "day" view). |              |          |    3     | Making each view display only the relevant timeframe (e.g., today, this week, this month) would improve clarity and user understanding. |
-|                                              The terminology used could be hard to understand as it is relatively technical.                                              |              |          |    2     |                                            Use simpler and easier to understand terminology                                             |
-|                                                        Some useful information is not displayed on the main page.                                                         |              |          |    3     |                 Display useful information on the main page, making it so users don't have to navigate to other pages.                  |
-|                                                     Dashboard contains excessive information, making it overwhelming.                                                     |              |          |    3     |                              Simplify the UI with a customizable dashboard that shows only relevant data.                               |
+|                                                 Users who accidentally remove a device must set it up again from scratch                                                  |      3       |    2     |    2     |                                   Implement an "Undo" option or confirmation before removing devices.                                   |
+| Customization options do not follow the natural flow of user expectations, as the app mixes data from different time periods (e.g., part of yesterday in the "day" view). |      2       |    2     |    3     | Making each view display only the relevant timeframe (e.g., today, this week, this month) would improve clarity and user understanding. |
+|                                              The terminology used could be hard to understand as it is relatively technical.                                              |      2       |    3     |    2     |                                     Use simpler and easier to understand terminology and images ...                                     |
+|                                                        Some useful information is not displayed on the main page.                                                         |      2       |    3     |    3     |                 Display useful information on the main page, making it so users don't have to navigate to other pages.                  |
+|                                                     Dashboard contains excessive information, making it overwhelming.                                                     |      3       |    3     |    3     |                              Simplify the UI with a customizable dashboard that shows only relevant data.                               |
 
 
 
@@ -64,13 +64,12 @@ The Cognitive Walkthrough method was used to evaluate the usability of the Empor
 The following tasks were selected because they are core functionalities of the app and essential for user experience. Each task was broken down into subtasks.
 
 
-| Task                                   | Subtasks                      |
-| -------------------------------------- | ----------------------------- |
-| **1. Generating a consumption report** | 1. Navigate to "Home" section |
-|                                        | 2. Choose unit of measurement |
-|                                        | 3. Analyze the report         |
+| Task                                 | Subtasks                      |
+| ------------------------------------ | ----------------------------- |
+| **1. Consulting consumption report** | 1. Navigate to "Home" section |
+|                                      | 2. Choose unit of measurement |
+|                                      | 3. Analyze the report         |
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 | Task                                          | Subtasks                                            |
 | --------------------------------------------- | --------------------------------------------------- |

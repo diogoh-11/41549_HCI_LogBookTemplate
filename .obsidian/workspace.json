@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stage1_context/b_stage_1_context_definition_nosso.md",
+                "file": "stage2_requirements/c_stage_2_requirement_definition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "b_stage_1_context_definition_nosso"
+              "title": "c_stage_2_requirement_definition"
             }
           }
         ],
@@ -199,8 +199,16 @@
   },
   "active": "552e429a69debfa4",
   "lastOpenFiles": [
-    "stage1_context/heuristic_evaluations/expert1_heuristic_evaluation_workbook.md",
+    "stage2_requirements/personas/persona2_template.md",
+    "stage2_requirements/personas/persona1_template.md",
+    "stage2_requirements/personas/Alberto_Pais.png",
+    "stage1_context/interviews/interview-André.md",
     "stage1_context/b_stage_1_context_definition_nosso.md",
+    "stage2_requirements/c_stage_2_requirement_definition.md",
+    "stage1_context/interviews/interview-HenriqueGoncalo.md",
+    "stage2_requirements/personas/persona1.jpeg",
+    "stage1_context/interviews/interview-template.md",
+    "stage1_context/heuristic_evaluations/expert1_heuristic_evaluation_workbook.md",
     "stage1_context/competitors/Competitor Analysis Emporia_Energy.md",
     "stage1_context/heuristic_evaluations/expert3_heuristic_evaluation_workbook.md",
     "stage1_context/competitors/Competitor Analysis AmazonShoes.md",
@@ -211,7 +219,6 @@
     "stage1_context/heuristic_evaluations/severity_scale_heuristic_evaluation.md",
     "stage1_context/competitors/Competitor Analysis Template.md",
     "stage1_context/heuristic_evaluations/expert2_heuristic_evaluation_workbook.md",
-    "stage1_context/interviews/interview-template.md",
     "stage1_context/interviews/interview-Bob.md",
     "stage0_planning/a_stage_0_planning_problem_identification.md"
   ]

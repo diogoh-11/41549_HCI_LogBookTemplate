@@ -11,17 +11,17 @@
 
 ## Persona: [Roberto Santos] 
 ### Summary 
-| Attribute        | Details                                       |
-| ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)  |
-| **Name**         | Roberto Santos                                |
-| **Age**          | 37                                 |
-| **Occupation**   | Accountant                           |
-| **Location**     | Aveiro, Portugal                               |
-| **Goals**        | Looking for a way to track the energy usage of individual appliances so he can make informed decisions about where to cut back           |
-| **Pain Points**  | Trying to find an easy-to-use monitoring system that provides detailed energy consumption data for each appliance             |
-| **Motivation**   | *"I want to make life a little easier for my family*"                |
-| **Full Profile** | [📄 Read More](personas/persona1_template.md) |
+| Attribute        | Details                                                                                                                        |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)                                                                                   |
+| **Name**         | Roberto Santos                                                                                                                 |
+| **Age**          | 37                                                                                                                             |
+| **Occupation**   | Accountant                                                                                                                     |
+| **Location**     | Aveiro, Portugal                                                                                                               |
+| **Goals**        | Looking for a way to track the energy usage of individual appliances so he can make informed decisions about where to cut back |
+| **Pain Points**  | Trying to find an easy-to-use monitoring system that provides detailed energy consumption data for each appliance              |
+| **Motivation**   | *"I want to make life a little easier for my family*"                                                                          |
+| **Full Profile** | [📄 Read More](personas/persona1_template.md)                                                                                  |
 
 ---
 ## Persona: [Alberto Pais] 
@@ -73,14 +73,54 @@ As he shared the results with his kids, he explained how these optimizations hel
 
 # Requirements
 
-
-
-
-
 ## C.1. Functional requirements
 
+**1. Energy expenses**
+- User should be able to see real time energy usage
+- User must be able to choose the time-span of the data
+- Different views should be offered
+- User should be able to change the units of measurement
+
+**2. EV chargers**
+- User must be able to see how much time until charging is finished
+- User must be able to schedule charging times
+
+**3. Solar panels**
+- User must be able to check how much energy is being produced
+- User must be able to see how much produced energy is being wasted
+- User must be able to redirect extra produced energy
+- User must be able to toggle production on or off
+
+**4. Insights and energy saving tips**
+- User must be able to receive Personalized energy-saving recommendations
+- User must be able to see a comparison with similar households
+
+**5. Notifications and Alerts**
+- User should receive real-time alerts for high energy consumption or unexpected spikes
+- User should receive weather-based insights for optimizing energy usage/production.
+
+**6. Data reporting and exporting**
+- Users can generate reports in PDF, CSV, or Excel formats
 
 ## C.2. Non-functional requirements
+
+**1. Operational requirements**
+- The system will operate on a mobile environment (IOS and Android)
+- The app should be able to connect to different appliances wirelessly
+**2. Performance requirements**
+- Energy related graphs should be fast and responsive to changes
+**3. Security and privacy**
+- User data must be stored in a safe way
+- Log in required to access some parts of the app
+**4. Usability and Accessibility**
+- The app should have an intuitive design
+- The app should have a clean aesthetic
+- The app may have some accessibility features
+**5. Availability and maintainability**
+- The system should be available 99.9% of the time without downtime
+- Regular updates updates and/or bug fixes
+**6. Integration and Compatibility**
+- The app should be compatible with various smart appliances
 
 
 ---
