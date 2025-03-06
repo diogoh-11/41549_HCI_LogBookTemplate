@@ -8,22 +8,6 @@
 >	- identify requirements
 
 # Personas
-
-## Persona: [Roberto Santos] 
-### Summary 
-| Attribute        | Details                                                                                                                        |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)                                                                                   |
-| **Name**         | Roberto Santos                                                                                                                 |
-| **Age**          | 37                                                                                                                             |
-| **Occupation**   | Accountant                                                                                                                     |
-| **Location**     | Aveiro, Portugal                                                                                                               |
-| **Goals**        | Looking for a way to track the energy usage of individual appliances so he can make informed decisions about where to cut back |
-| **Pain Points**  | Trying to find an easy-to-use monitoring system that provides detailed energy consumption data for each appliance              |
-| **Motivation**   | *"I want to make life a little easier for my family*"                                                                          |
-| **Full Profile** | [📄 Read More](personas/persona1_template.md)                                                                                  |
-
----
 ## Persona: [Alberto Pais] 
 ### Summary 
 | Attribute        | Details                                       |
@@ -40,36 +24,27 @@
 
 ---
 
-
-
-
-
 # Scenarios
 
+## Scenario 1: Alberto wants to know which of his devices installed in the living room are consuming the most energy.
 
-## Scenario 1: Roberto Tracks His Home Energy Usage
+Alberto wants to monitor the energy consumption of his devices in the living room. Using his smart energy management system, he aims to identify which devices are consuming the most power. With this information, he can adjust usage patterns and potentially reduce electricity costs.
 
-Roberto had always been mindful of his family's expenses, but their electricity bill remained a constant challenge. He suspected that certain appliances were consuming more energy than expected, but without clear data, he wasn’t sure how to cut costs effectively.
+## Scenario 2: Checking how much energy the solar panel has produced this month.
 
-One evening, after seeing an ad for a **smart energy monitoring system**, he decided to give it a try. The system promised real-time tracking of each appliance’s energy use, helping families like his make smarter decisions.
+Alberto wants to review his solar panel's energy production this month to evaluate if his investment was a good decision.
 
-After setting up the system, Roberto opened the app on his phone and was immediately greeted with a dashboard showing the energy consumption of the different parts of his house. He quickly noticed that the electric heater in the living room was using far more energy than expected.
+## Scenario 3: Alberto needs to see how long it will take for his car to be fully charged.
 
-Curious, he explored the system’s **recommendations** and found that adjusting the heater’s schedule and lowering the temperature slightly could lead to **noticeable savings**. He also set up alerts to notify him when energy consumption spiked unexpectedly.
+Since Alberto is going on a long trip, he needs his vehicle to be fully charged. He wants to see if charging will take too much time.
 
-Over the next few weeks, Roberto made small adjustments based on the insights he gathered. His next electricity bill confirmed it—**he had successfully reduced his energy costs**. Feeling relieved, he shared his experience with his wife, confident that these small changes would help ease their financial burden while still keeping their home comfortable.
+## Scenario 4: Alberto automates his smart home energy system.
 
-## Scenario 2: Alberto Automates His Smart Home Energy System
+After configuring the system, Alberto wants it to prioritize charging his electric vehicle and powering major appliances during peak solar energy production.
 
-Alberto had spent years optimizing energy usage for large-scale projects, but he wanted to bring that same level of efficiency to his own home. With a growing number of **smart home devices, solar panels, and an electric vehicle** , he needed a way to manage them all seamlessly.
+## Scenario 5: Alberto compares rates from different energy companies.
 
-One morning, as he reviewed his home’s **smart energy dashboard**, he noticed that his solar panels were generating excess energy during peak sunlight hours. However, this energy wasn’t being utilized efficiently. He decided to integrate a **smart automation system** that would dynamically allocate power where it was needed most.
-
-After configuring the system, Alberto programmed it to **prioritize charging his electric vehicle and powering major appliances** whenever solar energy production was at its highest. He also set up real-time monitoring to track how small adjustments—like delaying the washing machine cycle to midday—could **maximize energy savings**.
-
-Later that week, Alberto checked his app and saw **impressive results**: more of his home’s energy needs were being met by solar power, and his reliance on the grid had dropped significantly. Even better, the system now gave him **detailed breakdowns** of how each change impacted efficiency.
-
-As he shared the results with his kids, he explained how these optimizations helped reduce their carbon footprint. Watching their curiosity grow, he felt proud—not only was he making his home smarter, but he was also teaching his family the value of sustainability.
+Alberto thinks he is spending too much money on energy at the end of the month, so he wants to compare his costs with other companies to see if he would save more money by switching to another electricity provider.
 
 # Requirements
 
