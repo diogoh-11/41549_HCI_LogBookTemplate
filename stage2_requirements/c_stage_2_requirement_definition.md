@@ -46,6 +46,52 @@ After configuring the system, Alberto wants it to prioritize charging his electr
 
 Alberto thinks he is spending too much money on energy at the end of the month, so he wants to compare his costs with other companies to see if he would save more money by switching to another electricity provider.
 
+
+# Hierarchical Task Analysis
+
+### 1. Monitor Energy Consumption by Room  
+   - Track energy usage per room  
+   - Identify high-energy-consuming appliances  
+   - Optimize energy efficiency  
+
+   **[See Diagram](./images_tasks/Household_Consumption.png)**  
+
+### 2. Check Solar Energy Production  
+   - Monitor solar panel energy generation  
+   - Track energy sent to the grid vs. self-consumption  
+   - Analyze efficiency over time  
+
+   **[See Diagram](./images_tasks/SolarPanel_Production.png)**  
+
+### 3. Manage Electric Vehicle Charging  
+   - Monitor EV charging status  
+   - Optimize charging time for cost efficiency  
+   - Track energy source (grid vs. solar)  
+
+   **[See Diagram](./images_tasks/ElectricVeh_Charging.png)**  
+
+### 4. Receive Energy-Saving Tips (Recommendations)  
+   - Smart recommendations based on usage patterns  
+   - Alerts for excessive consumption  
+   - Suggestions for energy-efficient practices  
+
+   **[See Diagram](./images_tasks/)**  
+
+### 5. Compare Energy Provider Tariffs  
+   - Analyze and compare different energy provider rates  
+   - Get recommendations for cost savings  
+   - Choose the best provider based on consumption patterns  
+
+   **[See Diagram](./images_tasks/)**  
+
+### 6. Automate Energy Waste Reduction  
+   - Redirect excess solar energy to priority appliances  
+   - Automate energy usage based on user-defined preferences  
+   - Reduce energy waste efficiently  
+
+   **[See Diagram](./images_tasks/)**  
+
+
 # Requirements
 
 ## C.1. Functional requirements
