@@ -150,23 +150,34 @@ The users were approached in an informal manner. Since the interviews were condu
 
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
 
-### Interview List 
-| Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
-| ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
-| ...        |                    |                                                                 |                              |     |
+## Interview List  
+| Date       | Participant / Role          | Key Insights                                                      | Link to Notes                              |  
+|------------|----------------------------|-------------------------------------------------------------------|--------------------------------------------|  
+| 2025-02-27 | André Anjos / Student      | Needs better energy monitoring, struggles with multiple apps.    | [📄 Notes](../stage1_context/interviews/interview-André.md)             |  
+| 2025-02-27 | Henrique & Gonçalo / Students | Want detailed appliance tracking and an intuitive interface. | [📄 Notes](../stage1_context/interviews/interview-HenriqueGoncalo.md) |  
 
-### Common Themes & Patterns 
+---
 
-- **Recurring Problems:** 
-	- Issue 1
-	- Issue 2
+## Common Themes & Patterns  
+
+- **Recurring Problems:**  
+	- Lack of detailed consumption breakdown (by device, room, or time).  
+	- Difficulty comparing solar energy production vs. consumption.  
+	- Current apps are unintuitive and require manual analysis.  
+	- No centralized tool for all needs (electric car, solar panels, home consumption).  
+
 - **Frequently Used Tools:** 
-	- Tool 1
-	- Tool 2
-- **Desired Features / Solutions:** 
-	- Feature 1
-	- Feature 2
+	- General energy monitoring apps.  
+	- EDP reports for tariff checking.  
+	- Manual tracking of energy usage patterns.  
+
+- **Desired Features / Solutions:**   
+	- A dashboard showing energy consumption by room and device.  
+	- AI-based recommendations for optimizing energy use.  
+	- Notifications for abnormal consumption or savings opportunities.  
+	- Integration of electric cars with charging controls.  
+	- Clear visualizations (graphs, intuitive UI) for easier decision-making.  
+
 - --- 
 
 

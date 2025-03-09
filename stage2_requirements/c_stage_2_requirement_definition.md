@@ -75,14 +75,14 @@ Alberto thinks he is spending too much money on energy at the end of the month, 
    - Alerts for excessive consumption  
    - Suggestions for energy-efficient practices  
 
-   **[See Diagram](./images_tasks/)**  
+   **[See Diagram](./images_tasks/Energy_Saving_Tips.png)**  
 
 ### 5. Compare Energy Provider Tariffs  
    - Analyze and compare different energy provider rates  
    - Get recommendations for cost savings  
    - Choose the best provider based on consumption patterns  
 
-   **[See Diagram](./images_tasks/)**  
+   **[See Diagram](./images_tasks/Compare_Companies.png)**  
 
 ### 6. Automate Energy Waste Reduction  
    - Redirect excess solar energy to priority appliances  
