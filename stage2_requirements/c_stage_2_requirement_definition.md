@@ -128,18 +128,23 @@ Alberto thinks he is spending too much money on energy at the end of the month, 
 **1. Operational requirements**
 - The system will operate on a mobile environment (IOS and Android)
 - The app should be able to connect to different appliances wirelessly
+
 **2. Performance requirements**
 - Energy related graphs should be fast and responsive to changes
+
 **3. Security and privacy**
 - User data must be stored in a safe way
 - Log in required to access some parts of the app
+
 **4. Usability and Accessibility**
 - The app should have an intuitive design
 - The app should have a clean aesthetic
 - The app may have some accessibility features
+
 **5. Availability and maintainability**
 - The system should be available 99.9% of the time without downtime
 - Regular updates updates and/or bug fixes
+
 **6. Integration and Compatibility**
 - The app should be compatible with various smart appliances
 
