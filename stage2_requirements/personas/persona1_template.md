@@ -18,6 +18,7 @@ Alberto starts his day at 6:30 AM by reviewing energy reports from work and chec
 - Educate his children on sustainable energy practices.  
 - Integrate solar panels and his electric vehicle into a seamless energy management system.  
 - Reduce reliance on the grid and maximize self-sufficiency through renewable energy.  
+- Save money on energy costs.
 
 ## Pain Points & Challenges  
 - Managing data from multiple smart home devices without a centralized platform.  
