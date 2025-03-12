@@ -67,7 +67,7 @@ The following tasks were selected because they are core functionalities of the a
 | Task                                 | Subtasks                      |
 | ------------------------------------ | ----------------------------- |
 | **1. Consulting consumption report** | 1. Navigate to "Home" section |
-|                                      | 2. Choose unit of measurement |
+|                                      | 2. Choose time period |
 |                                      | 3. Analyze the report         |
 
 
@@ -98,7 +98,7 @@ The following tasks were selected because they are core functionalities of the a
 | Step # | Task/Action to Perform     | Will User Know What to do at this step? (Yes/No) | Notes                                              | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes                    | Is Action Successful? (Yes/No) | Suggestions for Improvement                                               |
 | ------ | -------------------------- | ------------------------------------------------ | -------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------ | ------------------------------ | ------------------------------------------------------------------------- |
 | 1      | Navigate to "Home" section | Yes                                              |                                                    | Yes                                                                                       |                          | Yes                            |                                                                           |
-| 2      | Choose unit of measurement | Yes                                              | As there are to many options it could be confusing | Yes                                                                                       |                          | Yes                            | Improve readability and clarification by display less more useful options |
+| 2      | Choose time period | Yes                                              | As there are to many options it could be confusing | Yes                                                                                       |                          | Yes                            | Improve readability and clarification by display less more useful options |
 | 3      | Analyze report data        | Yes                                              | Users might not understand the graphs              | Yes                                                                                       | Requires prior knowledge | No                             | Provide tooltips or explanations for metrics                              |
 
 
